@@ -306,7 +306,7 @@ WHERE member_casual = 'casual'
 GROUP BY end_station_name, member_casual
 ORDER BY num_of_riders DESC; -- Streeter Dr & Grand Ave with 56,888 by casual riders
 
-
+-- Save cleaned data into CSV format
 SELECT 'ride_id', 'rideable_type','start_station_name', 'end_station_name',
 'started_at', 'ended_at', 'duration_minute', 'day_of_week', 'month_', 'start_lat', 
 'start_lng', 'end_lat', 'end_lng', 'member_casual'
