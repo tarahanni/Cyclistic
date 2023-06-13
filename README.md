@@ -65,7 +65,7 @@ The trend is obvious that both members and casual riders are at their peak durin
 ![Top 10 Start Station Names by Casual Riders](https://github.com/tarahanni/Cyclistic/assets/135048214/00d0aa8c-b02f-4143-ba1a-07af6255420b)
 ![Top 10 End Station Names by Casual Riders-2](https://github.com/tarahanni/Cyclistic/assets/135048214/65b22401-c3d5-49d6-8d06-a17771f790f8)
 
-In the graph, it can be clearly seen that the order of popularity for picking up the bike as well as dropping the bike is the same for regular riders. However, the gap in the number of trips between the number in first and second place is almost half of the number in first place.
+In the graph, it can be clearly seen that the order of popularity for picking up the bike as well as dropping the bike is the same for casual riders. However, the gap in the number of trips between the number in first and second place is almost half of the number in first place.
 
 
 ## Summary: 
